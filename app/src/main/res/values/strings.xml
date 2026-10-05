@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">LinearLayout</string>
+    <string name="app_name">loginAppAS</string>
+    <string name="tvTitle">Rejestruj konto</string>
+    <string name="tvEmail">Podaj e-mail:</string>
+    <string name="etEmail">ewa@poczta.pl</string>
+    <string name="tvPwd">Podaj hasło:</string>
+    <string name="tvRedoPwd">Powtórz hasło:</string>
+    <string name="etPassword">Szesc6</string>
+    <string name="btConfirm">ZATWIERDŹ</string>
+    <string name="tvEmailDisp">Witaj ewa@poczta.pl</string>
 </resources>
